@@ -1,6 +1,12 @@
 # Clash-for-Windows_Chinese_Linux
 给linux打包中文版clash for windows
 
+---
+
+<br>
+
+### 打包教程
+
 前往 [原版备份库](https://github.com/lantongxue/clash_for_windows_pkg/releases/tag/0.20.39) 下载 `Clash.for.Windows-0.20.39-x64-linux.deb` 文件
 
 前往 [中文版汉化库](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFW-V0.20.39_OPT-1) 下载 `Clash.for.Windows-0.20.39-Opt.1-linux-x64.tar.gz` 文件
